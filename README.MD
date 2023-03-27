@@ -4,6 +4,11 @@
 
 <br>
 
+<h1 align="center">
+  <img alt="Rentex" title="RentX" src="./src/assets/HelloAnimations.gif" width=230/>
+</h1>
+
+
 ## 💻 Projeto
 
 Aplicação construída para exemplificar a ultilização de animações do Adobe After Effects exportadas como JSON, fazendo uso da biblioteca **[Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)**.
