@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="Rentex" title="RentX" src="./src/assets/HelloAnimations.gif" width=230/>
+  <img alt="HelloAnimations" title="HelloAnimations" src="./src/assets/HelloAnimations.gif" width=230/>
 </h1>
 
 
